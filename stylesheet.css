@@ -1,0 +1,19 @@
+* {
+    border: olid;
+    font: 1em sans-serif;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(177, 177, 177);
+}
+
+ul {
+    list-style-type: none;
+}
